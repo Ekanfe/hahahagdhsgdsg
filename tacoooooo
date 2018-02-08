@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>lading page</title>
+		<link rel="stylesheet" href="estilos.css">
+	</head>
+<body>
+<header>
+	<section id="main">
+		<h1>Mi Landing Page</h1>
+		<nav>
+			<u1>
+				<li>inicio</li>
+				<li>Experiencias</li>
+				<li>Contacto</li>
+			</u1>	
+		</nav>
+	</section>
+</header>
+<section class="contenedor">
+	<section id="articulo">
+		<h2>¡Atrevete a descubrir esto!</h2>
+		<p id="textoarticulo">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla in eros at nisi aliquet venenatis. Nulla ac faucibus ipsum, non euismod diam. Proin sed consequat libero. Vestibulum eget sem in erat sollicitudin vulputate quis id felis. Pellentesque nisi nulla, ullamcorper venenatis elit id, ullamcorper condimentum dui. Donec felis sem, porta vitae dolor eu, ullamcorper vulputate purus. Morbi elementum rutrum dolor, et pharetra lacus finibus eget. Mauris odio est, venenatis vel urna in, rhoncus accumsan urna. Nam a sagittis augue. Nulla varius massa sed posuere tempor. Mauris laoreet nunc sodales massa condimentum, at dictum tortor placerat. Aliquam luctus congue sapien. Sed blandit malesuada metus, vel viverra felis pretium in.
+		</p>
+<img class="ilustracion" src="img/regina.jpg" alt="personas pintando en la calle regina.">
+<address>
+	Por abraham zazueta.
+</address>
+	</section>
+	<form class="formulario" action="index.html" method="post">
+					<h2>Únete a la comunidad viajera de Mexico</h2>
+					<h4 id="nombre">Nombre</h4>
+					<input type="text" name="nombre" value="">
+					<h4 id="email">Correo electronico</h4>
+					<input type="email" name="email" value="">
+					<h4 id="telefono">telefono</h4>
+					<input type="tel" name="telefono" value="">
+					<br>
+<imput id="enviar" type="submit" name="enviar" value="enviar">
+			</form>
+</section>
+<section id="ctarjetas">
+	
+<article class="tarjeta">
+	<img src="http://www.hablandoenmanga.com/imagenes/unnamed1.jpg" width="500" heigt="500" alt="saludo">
+	<h3>saludo</h3>
+	<p class="descripcion">ahora vamos abailar con los morros</p>
+</article>	
+<article class="tarjeta">
+	<img src="https://78.media.tumblr.com/5ffc96f85d57a0160caa7b7e20e6ecf0/tumblr_os681jctLj1w5oxoso1_500.png">
+	<h3>el inframundo</h3>
+	<p class="descripcion">holahskalhdlkahsdklahdklahsddlkashdklasdhaslkdhaslkdhaslkdhasdlk</p>
+</article>
+</section>
+<footer>
+	<h6 id="creditos">una creacion de potros itson</h6>
+</footer>
+</body>
+</html>
